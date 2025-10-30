@@ -1,8 +1,8 @@
 @extends('frontend.layouts.main')
 @section('main-container')
 
-    <!--Main Slider Start-->
-    <section class="main-slider-two clearfix">
+    <!--Main Slider Start- -->
+    <!-- <section class="main-slider-two clearfix">
 
         <div class="swiper-container thm-swiper__slider" data-swiper-options='{"slidesPerView": 0, "loop": no,
             "effect": "zoom",
@@ -59,7 +59,7 @@
         </div>
         </div>
     </section>
-
+      -->
     <!--Main Slider End-->
 
 
